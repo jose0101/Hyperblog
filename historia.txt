@@ -13,4 +13,5 @@ add
 commit
 rm #borrar carpeta o documento
 mkdir #crear carpeta
-show #mostrar modificaciones 
+show #mostrar modificaciones  
+esc+shift+z+z #salir de a sugerencia de poner nombre a lo modificado

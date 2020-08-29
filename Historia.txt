@@ -1,5 +1,0 @@
-Hola
-Esta es la historia sobre cómo aprender a usar git
-
-¡Listos?
-¡Comenzamos!

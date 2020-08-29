@@ -7,3 +7,10 @@ Esta es la historia de cómo aprendí a usar git
 Lo primero que tenemos que enteder son los comandos:
 cd #cambiar directorio
 ls #listar carpetas
+clear #borrar todo
+history #historial de comandos ejecutados
+add
+commit
+rm #borrar carpeta o documento
+mkdir #crear carpeta
+show #mostrar modificaciones 

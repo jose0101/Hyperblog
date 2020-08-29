@@ -1,5 +1,9 @@
-Hola
+¡Hola!
 Esta es la historia de cómo aprendí a usar git
 
 ¡Listos?
 ¡Comenzamos!
+
+Lo primero que tenemos que enteder son los comandos:
+cd #cambiar directorio
+ls #listar carpetas

@@ -1,2 +1,2 @@
 # Hyperblog
-Un blog increible para el uso de gi y github
+Un blog increible para el uso de git y github
